@@ -28,6 +28,7 @@ $('table.zebrine2 td:contains(techniek)') .closest('tr') .css('font-weight', 'bo
 $('table.zebrine2 td:contains(Hoofd BHV)') .closest('tr') .css('font-weight', 'bold');
 $('table.zebrine2 td:contains(HBHV)') .closest('tr') .css('font-weight', 'bold');
 $('table.zebrine2 td:contains(Coördinator BHV)') .closest('tr') .css('font-weight', 'bold');
+$('table.zebrine2 td:contains(Coordinator BHV)') .closest('tr') .css('font-weight', 'bold');
 
 //Rabo blauw
 $('table.zebrine2 td:icontains(rabo)') .each(function () {
